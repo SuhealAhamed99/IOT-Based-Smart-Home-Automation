@@ -1,0 +1,15 @@
+# Wokwi Library List
+# See https://docs.wokwi.com/guides/libraries
+
+# Automatically added based on includes:
+DHT sensor library
+LiquidCrystal I2C
+Adafruit GFX Library
+Servo
+
+BlynkESP32_BT_WF
+Adafruit SSD1306
+ESP32Servo
+U8g2
+NTPClient
+ESP32_easy_wifi_data
